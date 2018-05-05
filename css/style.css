@@ -23,6 +23,12 @@ body {
   position: relative;
 }
 
+#logo-img {
+    
+height: 50px;
+    max-width: 100px;
+}
+
 a {
   color: #52d3aa;
   -webkit-transition: 0.5s;
